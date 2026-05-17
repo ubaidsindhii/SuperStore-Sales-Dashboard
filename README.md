@@ -27,7 +27,7 @@ Interactive Power BI dashboard designed to analyze sales performance, customer t
 - Implemented forecasting techniques to predict future sales trends
 
 ## Project Files
-superstore-dashboard.pbix
+Superstore.pbix
 
 ## Author
 Ubaid Sindhi
